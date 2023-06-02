@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Vesting (Solidity)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+**Vestig project allows you to set payment plans. Works with tokens (ERC20) and ether. Payments are accrued according to
+the plan.**
